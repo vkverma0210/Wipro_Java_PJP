@@ -1,0 +1,1 @@
+Select DISTINCT job_id FROM employees;
